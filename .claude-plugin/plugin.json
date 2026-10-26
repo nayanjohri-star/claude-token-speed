@@ -1,0 +1,7 @@
+{
+  "name": "token-speed",
+  "version": "0.2.0",
+  "description": "Live output speed (⚡ tok/s) and prompt-cache hit rate (☀) under the prompt, in Claude Code CLI and Desktop / 输入框下方实时显示输出速度和缓存命中率",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "claude-token-speed",
+  "owner": { "name": "nayanjohri-star" },
+  "plugins": [
+    {
+      "name": "token-speed",
+      "source": "./",
+      "description": "Live output speed (⚡ tok/s) and prompt-cache hit rate (☀) under the prompt / 输入框下方实时显示输出速度和缓存命中率"
+    }
+  ]
+}
